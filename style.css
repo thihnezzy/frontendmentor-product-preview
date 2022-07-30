@@ -68,7 +68,11 @@ button:active{
     width: 600px;
     height: 450px;
     background-color: var(--neutral-white);
-    
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
 }
 
 .product-content{
@@ -123,7 +127,7 @@ button:active{
     text-decoration: line-through;
 }
 
-.container,img{
+img{
     border-top-left-radius: 8px;
     border-bottom-left-radius: 8px;
 }
@@ -142,10 +146,11 @@ button:active{
         margin: 28px 16px;
     }
 
-    .container,img{
+    img{
         border-top-left-radius: 8px;
         border-top-right-radius: 8px;
-    }
+       
+}
 
     .product-content{
         margin: 12px 24px ;
