@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://thihnezzy-product-preview.netlify.app/)
+- Solution URL: [Product Preview](https://thihnezzy-product-preview.netlify.app/)
 ### Built with
 
 - Pure HTML and CSS
@@ -44,5 +44,5 @@ During this small project, I speeded up my HTML markup as well as quickly identi
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/nobody1234455)
+- Frontend Mentor - [@thihnezzy](https://www.frontendmentor.io/profile/nobody1234455)
 
